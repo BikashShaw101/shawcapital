@@ -12,6 +12,8 @@ yarn dev
 pnpm dev
 ```
 
+Shaw Capital is a financial based company and this website is course based website or you can say LMS System platform , users can create their own Video tutorials and sale their course to open public
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
