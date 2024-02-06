@@ -6,15 +6,16 @@ async function main() {
   try {
     await db.category.createMany({
       data: [
-        { name: "Music" },
-        { name: "Trade" },
-        { name: "Photography" },
-        { name: "Fitness" },
-        { name: "Trading" },
-        { name: "Accounting" },
-        { name: "Computer Science" },
-        { name: "Filming" },
-        { name: "Engineering" },
+        { name: "Education" },
+        { name: "Philosophy" },
+        { name: "Tradition" },
+        { name: "Culture" },
+        { name: "History" },
+        { name: "India" },
+        { name: "Egypt" },
+        { name: "Western" },
+        { name: "Pop" },
+        { name: "Dance" },
       ],
     });
     console.log("seccess");
